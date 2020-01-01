@@ -9,3 +9,10 @@ The DOM should render every 100ms.
 Actual Result
 ===
 The app will run for ~10 seconds and then hangs chrome.  Clicking another tab is the only way to revive the app.
+
+
+Chrome Performance
+===
+Output of chrome performance
+
+![isa](Screenshot_fail.png)
